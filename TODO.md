@@ -1,0 +1,3 @@
+- [x] Edit lib/book.py: Change title and page_count setters to print error messages instead of raising exceptions, and adjust messages to match tests.
+- [x] Edit lib/shoe.py: Change brand and size setters to print error messages instead of raising exceptions, adjust size check to only accept int, and update messages to match tests.
+- [x] Run pytest to verify all tests pass.
